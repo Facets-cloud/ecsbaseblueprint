@@ -3,7 +3,7 @@
   "kind": "ecs_cluster",
   "flavor": "default",
   "version": "0.1",
-  "disabled": true,
+  "disabled": false,
   "metadata": {},
   "spec": {
     "cluster": {
